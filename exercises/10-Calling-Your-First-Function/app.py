@@ -4,3 +4,9 @@ def is_odd(my_number):
 
 def my_main_code():
     # your code here
+    return (is_odd(45345))
+
+#idk whats going on but its coming back true.
+
+
+print(my_main_code())
